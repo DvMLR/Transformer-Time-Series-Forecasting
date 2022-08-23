@@ -4,6 +4,11 @@ from icecream import ic
 import numpy as np
 import torch
 
+
+
+#kasajksdklasjd
+
+
 def plot_loss(path_to_save, train=True):
     plt.rcParams.update({'font.size': 10})
     with open(path_to_save + "/train_loss.txt", 'r') as f:
